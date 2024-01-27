@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDriverpaste2.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8b5ab383c1b5ba3b24c03e69ff71b4e9103573f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDriverpaste2.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDriverpaste2.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
